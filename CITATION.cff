@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Если используете эти данные, укажите источник: KeyRadar (key-radar.ru)."
+title: "Индекс цен на подписки нейросетей и пополнение Steam в России (KeyRadar)"
+type: dataset
+authors:
+  - name: KeyRadar
+    website: "https://key-radar.ru/"
+url: "https://key-radar.ru/"
+repository-code: "https://github.com/PavlShe/KeyRadar"
+license: CC-BY-4.0
+date-released: "2026-11-12"
+keywords:
+  - prices
+  - ai subscriptions
+  - chatgpt
+  - steam
+  - russia
