@@ -287,8 +287,8 @@ date,service,tariff,month_from_rub,own_account_month_from_rub
 2026-11-12,chatgpt,Plus,749.0,2069.0
 2026-11-12,claude,Pro,2317.0,2317.0
 2026-11-12,claude,Max,16999.0,16999.0
-2026-11-12,gemini,AI Pro,,665.6666666666666
-2026-11-12,gemini,AI Ultra,2500.0,14299.0
+2026-11-12,gemini,AI Pro,699.0,665.6666666666666
+2026-11-12,gemini,AI Ultra,14299.0,14299.0
 2026-11-12,cursor,Pro,2575.0,2975.0
 2026-11-12,cursor,Ultra,12000.0,12000.0
 2026-11-12,suno,Pro,989.0,707.5

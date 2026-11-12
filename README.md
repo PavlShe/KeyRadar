@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [ChatGPT](https://key-radar.ru/ai-chatgpt.html) | ChatGPT Plus | 2 069 ₽ | 2 690 ₽ | 749 ₽ | 40 |
 | [Claude](https://key-radar.ru/ai-claude.html) | Claude Pro | 2 317 ₽ | 2 419 ₽ | — | 65 |
-| [Gemini](https://key-radar.ru/ai-gemini.html) | Google AI Ultra | 14 299 ₽ | — | 2 500 ₽ | 11 |
+| [Gemini](https://key-radar.ru/ai-gemini.html) | Google AI Pro | 699 ₽ | — | 699 ₽ | 29 |
 | [Cursor](https://key-radar.ru/ai-cursor.html) | Cursor Pro | 2 975 ₽ | — | 2 575 ₽ | 38 |
 | [Suno](https://key-radar.ru/ai-suno.html) | Suno Pro | 989 ₽ | 989 ₽ | 1 420 ₽ | 29 |
 | [Perplexity](https://key-radar.ru/ai-perplexity.html) | Perplexity Pro | 1 439 ₽ | — | — | 28 |
@@ -23,7 +23,7 @@
 | [Kling](https://key-radar.ru/ai-kling.html) | Kling Premier | 6 900 ₽ | — | — | 31 |
 | [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 468 ₽ | — | — | 31 |
 | [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Pro | 1 365 ₽ | — | — | 39 |
-| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 290 ₽ | — | 499 ₽ | 34 |
+| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 290 ₽ | — | 499 ₽ | 31 |
 
 Медиана — при 5 и более лотах на 1 месяц у надёжных продавцов. «Готовый аккаунт» — учётная запись продавца: дешевле, но при блокировке пропадут подписка и история. Полные таблицы, способы подключения и риски — на страницах сервисов: [нейросети](https://key-radar.ru/nejroseti.html).
 
