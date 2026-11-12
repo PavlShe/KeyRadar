@@ -262,8 +262,6 @@ date,service,tariff,month_from_rub,own_account_month_from_rub
 2026-11-11,chatgpt,Plus,1190.0,2069.0
 2026-11-11,claude,Pro,2319.0,2319.0
 2026-11-11,claude,Max,16999.0,15800.0
-2026-11-11,gemini,AI Pro,,665.6666666666666
-2026-11-11,gemini,AI Ultra,2500.0,8500.0
 2026-11-11,cursor,Pro,2575.0,
 2026-11-11,cursor,Ultra,12000.0,12139.0
 2026-11-11,suno,Pro,989.0,707.5
@@ -308,3 +306,28 @@ date,service,tariff,month_from_rub,own_account_month_from_rub
 2026-11-12,gamma,Plus,755.0,755.0
 2026-11-12,gamma,Pro,1365.0,1365.0
 2026-11-12,elevenlabs,Starter,499.0,290.0
+2026-11-13,chatgpt,Plus,1190.0,2069.0
+2026-11-13,claude,Pro,2317.0,2317.0
+2026-11-13,claude,Max,16999.0,16999.0
+2026-11-13,gemini,AI Pro,699.0,665.6666666666666
+2026-11-13,gemini,AI Ultra,14299.0,14299.0
+2026-11-13,cursor,Pro,2575.0,2975.0
+2026-11-13,cursor,Ultra,12000.0,12000.0
+2026-11-13,suno,Pro,989.0,707.5
+2026-11-13,suno,Premier,2699.0,2699.0
+2026-11-13,perplexity,Pro,1439.0,1439.0
+2026-11-13,character-ai,Plus,480.0,480.0
+2026-11-13,grok,SuperGrok,700.0,700.0
+2026-11-13,midjourney,Pro,1300.0,1300.0
+2026-11-13,chatgpt-pro,Pro,8399.0,8399.0
+2026-11-13,freepik,Premium,1800.0,2303.92
+2026-11-13,higgsfield,Plus,1199.0,
+2026-11-13,kling,Standard,745.0,745.0
+2026-11-13,kling,Pro,2550.0,2550.0
+2026-11-13,kling,Premier,6900.0,6900.0
+2026-11-13,krea,Basic,1468.0,1468.0
+2026-11-13,krea,Pro,2990.0,2990.0
+2026-11-13,krea,Max,4991.65,4991.65
+2026-11-13,gamma,Plus,755.0,755.0
+2026-11-13,gamma,Pro,1365.0,1365.0
+2026-11-13,elevenlabs,Starter,499.0,290.0
