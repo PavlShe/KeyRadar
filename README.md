@@ -20,8 +20,8 @@
 | [ChatGPT Pro](https://key-radar.ru/ai-chatgpt-pro.html) | ChatGPT Pro | 8 399 ₽ | — | 12 933 ₽ | 31 |
 | [Freepik](https://key-radar.ru/ai-freepik.html) | Freepik Premium | 1 699 ₽ | — | 1 800 ₽ | 26 |
 | [Higgsfield](https://key-radar.ru/ai-higgsfield.html) | Higgsfield | 879 ₽ | — | — | 25 |
-| [Kling](https://key-radar.ru/ai-kling.html) | Kling Standard | 745 ₽ | — | — | 31 |
-| [Krea](https://key-radar.ru/ai-krea.html) | Krea Pro | 1 299 ₽ | — | 3 210 ₽ | 31 |
+| [Kling](https://key-radar.ru/ai-kling.html) | Kling Premier | 6 900 ₽ | — | — | 31 |
+| [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 299 ₽ | — | — | 31 |
 | [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Pro | 579 ₽ | — | — | 39 |
 | [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 698 ₽ | — | 499 ₽ | 34 |
 
