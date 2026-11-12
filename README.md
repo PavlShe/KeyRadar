@@ -11,19 +11,19 @@
 | [ChatGPT](https://key-radar.ru/ai-chatgpt.html) | ChatGPT Plus | 2 069 ₽ | 2 690 ₽ | 749 ₽ | 40 |
 | [Claude](https://key-radar.ru/ai-claude.html) | Claude Pro | 2 317 ₽ | 2 419 ₽ | — | 65 |
 | [Gemini](https://key-radar.ru/ai-gemini.html) | Google AI Ultra | 14 299 ₽ | — | 2 500 ₽ | 11 |
-| [Cursor](https://key-radar.ru/ai-cursor.html) | Cursor Ultra | 1 699 ₽ | 2 244 ₽ | 1 699 ₽ | 38 |
+| [Cursor](https://key-radar.ru/ai-cursor.html) | Cursor Pro | 2 975 ₽ | — | 2 575 ₽ | 38 |
 | [Suno](https://key-radar.ru/ai-suno.html) | Suno Pro | 989 ₽ | 989 ₽ | 1 420 ₽ | 29 |
 | [Perplexity](https://key-radar.ru/ai-perplexity.html) | Perplexity Pro | 1 439 ₽ | — | — | 28 |
 | [Character AI](https://key-radar.ru/ai-character-ai.html) | Character AI Plus | 480 ₽ | 569 ₽ | — | 31 |
 | [Grok](https://key-radar.ru/ai-grok.html) | SuperGrok | 700 ₽ | — | — | 35 |
-| [Midjourney](https://key-radar.ru/ai-midjourney.html) | Midjourney Pro | 1 300 ₽ | — | — | 29 |
+| [Midjourney](https://key-radar.ru/ai-midjourney.html) | Midjourney | 1 300 ₽ | — | — | 29 |
 | [ChatGPT Pro](https://key-radar.ru/ai-chatgpt-pro.html) | ChatGPT Pro | 8 399 ₽ | — | 12 933 ₽ | 31 |
-| [Freepik](https://key-radar.ru/ai-freepik.html) | Freepik Premium | 1 699 ₽ | — | 1 800 ₽ | 26 |
+| [Freepik](https://key-radar.ru/ai-freepik.html) | Freepik Premium | 2 304 ₽ | — | 1 800 ₽ | 26 |
 | [Higgsfield](https://key-radar.ru/ai-higgsfield.html) | Higgsfield | 879 ₽ | — | — | 25 |
 | [Kling](https://key-radar.ru/ai-kling.html) | Kling Premier | 6 900 ₽ | — | — | 31 |
-| [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 299 ₽ | — | — | 31 |
-| [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Pro | 579 ₽ | — | — | 39 |
-| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 698 ₽ | — | 499 ₽ | 34 |
+| [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 468 ₽ | — | — | 31 |
+| [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Pro | 1 365 ₽ | — | — | 39 |
+| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 290 ₽ | — | 499 ₽ | 34 |
 
 Медиана — при 5 и более лотах на 1 месяц у надёжных продавцов. «Готовый аккаунт» — учётная запись продавца: дешевле, но при блокировке пропадут подписка и история. Полные таблицы, способы подключения и риски — на страницах сервисов: [нейросети](https://key-radar.ru/nejroseti.html).
 
