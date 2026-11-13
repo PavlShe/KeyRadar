@@ -2,11 +2,11 @@ id,name,section,price_text,price_rub,per_unit,change_7d_pct,min_rub,max_rub,offe
 roblox-robuksy,Робуксы на ваш аккаунт,Сервисы и донат,от 63 ₽,63.0,False,-10,63.0,70.0,40,https://key-radar.ru/roblox-robuksy.html
 roblox-karty,Подарочные карты Roblox,Сервисы и донат,от 90 ₽,90.0,False,0,90.0,90.0,40,https://key-radar.ru/roblox-karty.html
 fortnite-v-baksy,В-баксы Fortnite,Сервисы и донат,от 49 ₽,49.0,False,0,49.0,49.0,40,https://key-radar.ru/fortnite-v-baksy.html
-telegram-premium,Telegram Premium,Сервисы и донат,от 304 ₽,304.0,False,0,304.0,319.0,40,https://key-radar.ru/telegram-premium.html
-minecraft-klyuch,Ключ Minecraft для ПК,Сервисы и донат,от 1 531 ₽,1530.51,False,-3,1508.08,1584.46,40,https://key-radar.ru/minecraft-klyuch.html
+telegram-premium,Telegram Premium,Сервисы и донат,от 299 ₽,299.0,False,-2,299.0,319.0,40,https://key-radar.ru/telegram-premium.html
+minecraft-klyuch,Ключ Minecraft для ПК,Сервисы и донат,от 1 531 ₽,1531.4,False,-3,1508.08,1584.46,40,https://key-radar.ru/minecraft-klyuch.html
 telegram-stars,Telegram Stars,Сервисы и донат,от 150 ₽,150.0,False,0,150.0,150.0,40,https://key-radar.ru/telegram-stars.html
 minecraft-akkaunt,Аккаунт Minecraft для ПК,Сервисы и донат,от 989 ₽,989.0,False,,599.0,989.0,38,https://key-radar.ru/minecraft-akkaunt.html
-apple-karty-rossiya,Карты App Store: Россия,Сервисы и донат,от 617 ₽ за карту,617.0,True,,,,40,https://key-radar.ru/apple-karty-rossiya.html
+apple-karty-rossiya,Карты App Store: Россия,Сервисы и донат,от 609 ₽ за карту,609.0,True,,,,40,https://key-radar.ru/apple-karty-rossiya.html
 genshin-kristally,Кристаллы сотворения,Сервисы и донат,от 71 ₽,71.0,False,0,71.0,71.0,40,https://key-radar.ru/genshin-kristally.html
 genshin-molitvy,Молитвы Genshin Impact,Сервисы и донат,от 5 895 ₽,5895.0,False,0,5895.0,5895.0,34,https://key-radar.ru/genshin-molitvy.html
 spotify-premium,Spotify Premium на ваш аккаунт,Сервисы и донат,от 229 ₽,229.0,False,0,229.0,229.0,40,https://key-radar.ru/spotify-premium.html
@@ -16,7 +16,7 @@ apple-karty-ssha,Карты App Store: США,Сервисы и донат,от 
 brawl-stars-gemy,Гемы Brawl Stars,Сервисы и донат,от 188 ₽,188.0,False,0,188.0,188.0,40,https://key-radar.ru/brawl-stars-gemy.html
 mobile-legends-almazy-rossiya,Алмазы Mobile Legends: Россия,Сервисы и донат,от 59 ₽,59.0,False,0,59.0,59.0,40,https://key-radar.ru/mobile-legends-almazy-rossiya.html
 mobile-legends-almazy-global,Алмазы Mobile Legends: Global,Сервисы и донат,от 10 ₽,10.0,False,0,10.0,10.0,40,https://key-radar.ru/mobile-legends-almazy-global.html
-fortnite-boevoj-propusk,Боевой пропуск Fortnite,Сервисы и донат,от 439 ₽,439.0,False,-2,435.0,449.0,20,https://key-radar.ru/fortnite-boevoj-propusk.html
+fortnite-boevoj-propusk,Боевой пропуск Fortnite,Сервисы и донат,от 449 ₽,449.0,False,0,435.0,449.0,19,https://key-radar.ru/fortnite-boevoj-propusk.html
 spotify-kody,Коды Spotify Premium,Сервисы и донат,от 99 ₽,99.0,False,0,99.0,99.0,28,https://key-radar.ru/spotify-kody.html
 apple-karty-turciya,Карты App Store: Турция,Сервисы и донат,от 19 ₽ за карту,19.0,True,,,,40,https://key-radar.ru/apple-karty-turciya.html
 discord-nitro-novye-akkaunty,Nitro для новых аккаунтов,Сервисы и донат,от 349 ₽,349.0,False,0,349.0,349.0,40,https://key-radar.ru/discord-nitro-novye-akkaunty.html
@@ -33,63 +33,63 @@ valorant-vp,Valorant: VP,Сервисы и донат,от 845 ₽,845.0,False,0
 mobile-legends-almaznyj-propusk,Алмазный пропуск,Сервисы и донат,от 132 ₽,132.48,False,0,132.48,132.48,33,https://key-radar.ru/mobile-legends-almaznyj-propusk.html
 genshin-luna,Благословение полой луны,Сервисы и донат,от 305 ₽,305.0,False,7,285.0,310.0,40,https://key-radar.ru/genshin-luna.html
 genshin-boevoj-propusk,Боевой пропуск Жемчужный гимн,Сервисы и донат,от 620 ₽,620.0,False,8,575.0,629.0,19,https://key-radar.ru/genshin-boevoj-propusk.html
-google-play-karty,Карты Google Play,Сервисы и донат,от 480 ₽,480.0,False,0,480.0,480.0,6,https://key-radar.ru/google-play-karty.html
+google-play-karty,Карты Google Play,Сервисы и донат,от 480 ₽,480.0,False,0,480.0,480.0,7,https://key-radar.ru/google-play-karty.html
 nintendo-eshop-karty,Карты Nintendo eShop,Сервисы и донат,от 348 ₽,348.0,False,0,348.0,348.0,40,https://key-radar.ru/nintendo-eshop-karty.html
-netflix-karty,Карты оплаты Netflix,Сервисы и донат,от 471 ₽ за карту,471.0,True,,,,40,https://key-radar.ru/netflix-karty.html
+netflix-karty,Карты оплаты Netflix,Сервисы и донат,от 473 ₽ за карту,473.0,True,,,,40,https://key-radar.ru/netflix-karty.html
 fortnite-otryad,Отряд Fortnite,Сервисы и донат,от 319 ₽,319.0,False,0,319.0,319.0,40,https://key-radar.ru/fortnite-otryad.html
 battlenet-karty,Подарочные карты Battle.net,Сервисы и донат,от 389 ₽,388.79,False,17,330.99,388.79,40,https://key-radar.ru/battlenet-karty.html
 kluch-gta-5,GTA 5,Ключи Steam,от 1 920 ₽,1920.0,False,29,1026.0,1920.0,40,https://key-radar.ru/kluch-gta-5.html
 kluch-rust,Rust,Ключи Steam,от 546 ₽,546.0,False,0,546.0,546.0,33,https://key-radar.ru/kluch-rust.html
-kluch-witcher-3,Ведьмак 3,Ключи Steam,от 2 345 ₽,2345.0,False,-1,2334.0,2410.0,40,https://key-radar.ru/kluch-witcher-3.html
-kluch-diablo-4,Diablo IV,Ключи Steam,от 3 189 ₽,3189.0,False,0,3146.0,3214.0,40,https://key-radar.ru/kluch-diablo-4.html
+kluch-witcher-3,Ведьмак 3,Ключи Steam,от 2 338 ₽,2338.0,False,-1,2334.0,2410.0,40,https://key-radar.ru/kluch-witcher-3.html
+kluch-diablo-4,Diablo IV,Ключи Steam,от 3 221 ₽,3221.0,False,1,3146.0,3221.0,40,https://key-radar.ru/kluch-diablo-4.html
 kluch-sims-4,The Sims 4,Ключи Steam,от 99 ₽,99.0,False,0,99.0,99.0,40,https://key-radar.ru/kluch-sims-4.html
-kluch-dead-by-daylight,Dead by Daylight,Ключи Steam,от 263 ₽,263.33,False,0,259.1,264.49,40,https://key-radar.ru/kluch-dead-by-daylight.html
-kluch-skyrim,Skyrim SE,Ключи Steam,от 243 ₽,243.0,False,,243.0,570.0,40,https://key-radar.ru/kluch-skyrim.html
+kluch-dead-by-daylight,Dead by Daylight,Ключи Steam,от 266 ₽,265.54,False,1,259.1,265.54,40,https://key-radar.ru/kluch-dead-by-daylight.html
+kluch-skyrim,Skyrim SE,Ключи Steam,от 246 ₽,246.0,False,,243.0,570.0,40,https://key-radar.ru/kluch-skyrim.html
 kluch-control,Control,Ключи Steam,от 449 ₽,449.0,False,17,384.0,468.0,40,https://key-radar.ru/kluch-control.html
 kluch-cyberpunk-2077,Cyberpunk 2077,Ключи Steam,от 2 169 ₽,2169.0,False,0,2169.0,2169.0,40,https://key-radar.ru/kluch-cyberpunk-2077.html
-kluch-ark-survival-ascended,Ark Survival Ascended,Ключи Steam,от 3 115 ₽,3115.0,False,,751.0,3121.0,40,https://key-radar.ru/kluch-ark-survival-ascended.html
-kluch-rdr-2,Red Dead Redemption 2,Ключи Steam,от 3 582 ₽,3582.0,False,1,3524.0,3582.0,40,https://key-radar.ru/kluch-rdr-2.html
+kluch-ark-survival-ascended,Ark Survival Ascended,Ключи Steam,от 3 118 ₽,3118.0,False,,751.0,3121.0,40,https://key-radar.ru/kluch-ark-survival-ascended.html
+kluch-rdr-2,Red Dead Redemption 2,Ключи Steam,от 3 581 ₽,3581.0,False,1,3524.0,3581.0,40,https://key-radar.ru/kluch-rdr-2.html
 kluch-atomic-heart,Atomic Heart,Ключи Steam,от 639 ₽,639.0,False,2,625.0,640.0,40,https://key-radar.ru/kluch-atomic-heart.html
 kluch-far-cry-6,Far Cry 6,Ключи Steam,от 750 ₽,750.0,False,0,75.0,750.0,40,https://key-radar.ru/kluch-far-cry-6.html
 kluch-helldivers-2,Helldivers 2,Ключи Steam,от 1 729 ₽,1729.0,False,-4,1729.0,1795.0,40,https://key-radar.ru/kluch-helldivers-2.html
-kluch-valheim,Valheim,Ключи Steam,от 998 ₽,998.0,False,-10,998.0,1123.0,40,https://key-radar.ru/kluch-valheim.html
-kluch-elden-ring,Elden Ring,Ключи Steam,от 2 855 ₽,2855.0,False,2,2777.0,2860.0,40,https://key-radar.ru/kluch-elden-ring.html
+kluch-valheim,Valheim,Ключи Steam,от 999 ₽,999.0,False,-10,999.0,1123.0,40,https://key-radar.ru/kluch-valheim.html
+kluch-elden-ring,Elden Ring,Ключи Steam,от 2 830 ₽,2830.0,False,1,2777.0,2860.0,40,https://key-radar.ru/kluch-elden-ring.html
 kluch-dayz,DayZ,Ключи Steam,от 1 949 ₽,1949.0,False,-2,1190.0,1995.0,40,https://key-radar.ru/kluch-dayz.html
 kluch-ea-sports-fc-26,EA Sports FC 26,Ключи Steam,от 697 ₽,697.0,False,1,671.0,704.0,40,https://key-radar.ru/kluch-ea-sports-fc-26.html
 kluch-total-war-warhammer-3,Total War Warhammer III,Ключи Steam,от 249 ₽,249.0,False,,249.0,534.09,40,https://key-radar.ru/kluch-total-war-warhammer-3.html
-kluch-god-of-war,God of War,Ключи Steam,от 1 494 ₽,1494.0,False,,879.0,1494.0,40,https://key-radar.ru/kluch-god-of-war.html
-kluch-battlefield-6,Battlefield 6,Ключи Steam,от 2 543 ₽,2543.0,False,0,2499.0,2543.0,40,https://key-radar.ru/kluch-battlefield-6.html
-kluch-far-cry-5,Far Cry 5,Ключи Steam,от 441 ₽,441.0,False,,428.0,1734.0,40,https://key-radar.ru/kluch-far-cry-5.html
+kluch-god-of-war,God of War,Ключи Steam,от 1 495 ₽,1494.99,False,,879.0,1494.99,40,https://key-radar.ru/kluch-god-of-war.html
+kluch-battlefield-6,Battlefield 6,Ключи Steam,от 2 559 ₽,2559.0,False,1,2499.0,2559.0,40,https://key-radar.ru/kluch-battlefield-6.html
+kluch-far-cry-5,Far Cry 5,Ключи Steam,от 442 ₽,442.0,False,,428.0,1734.0,40,https://key-radar.ru/kluch-far-cry-5.html
 kluch-snowrunner,Snowrunner,Ключи Steam,от 1 329 ₽,1329.0,False,27,1027.0,1349.0,40,https://key-radar.ru/kluch-snowrunner.html
 kluch-hogwarts-legacy,Hogwarts Legacy,Ключи Steam,от 499 ₽,499.0,False,0,348.0,499.0,40,https://key-radar.ru/kluch-hogwarts-legacy.html
-kluch-forza-horizon-5,Forza Horizon 5,Ключи Steam,от 2 246 ₽,2246.0,False,0,2189.0,2246.0,40,https://key-radar.ru/kluch-forza-horizon-5.html
+kluch-forza-horizon-5,Forza Horizon 5,Ключи Steam,от 2 239 ₽,2239.0,False,0,2189.0,2246.0,40,https://key-radar.ru/kluch-forza-horizon-5.html
 kluch-terraria,Terraria,Ключи Steam,от 162 ₽,162.49,False,0,162.49,163.0,40,https://key-radar.ru/kluch-terraria.html
 kluch-death-stranding,Death Stranding,Ключи Steam,от 499 ₽,499.0,False,-17,499.0,599.0,40,https://key-radar.ru/kluch-death-stranding.html
-kluch-it-takes-two,It Takes Two,Ключи Steam,от 1 882 ₽,1882.0,False,0,1844.0,1896.0,40,https://key-radar.ru/kluch-it-takes-two.html
-kluch-baldurs-gate-3,Baldur’s Gate 3,Ключи Steam,от 1 692 ₽,1692.0,False,0,1675.0,1708.0,40,https://key-radar.ru/kluch-baldurs-gate-3.html
-kluch-space-marine-2,Space Marine 2,Ключи Steam,от 1 358 ₽,1357.8,False,36,990.0,1362.67,40,https://key-radar.ru/kluch-space-marine-2.html
-kluch-fallout-4,Fallout 4,Ключи Steam,от 432 ₽,432.0,False,1,422.0,432.0,40,https://key-radar.ru/kluch-fallout-4.html
+kluch-it-takes-two,It Takes Two,Ключи Steam,от 1 891 ₽,1891.0,False,1,1844.0,1896.0,40,https://key-radar.ru/kluch-it-takes-two.html
+kluch-baldurs-gate-3,Baldur’s Gate 3,Ключи Steam,от 1 703 ₽,1703.0,False,1,1675.0,1708.0,40,https://key-radar.ru/kluch-baldurs-gate-3.html
+kluch-space-marine-2,Space Marine 2,Ключи Steam,от 1 358 ₽,1358.43,False,36,990.0,1362.67,40,https://key-radar.ru/kluch-space-marine-2.html
+kluch-fallout-4,Fallout 4,Ключи Steam,от 431 ₽,431.0,False,1,422.0,432.0,40,https://key-radar.ru/kluch-fallout-4.html
 kluch-kingdom-come-2,Kingdom Come: Deliverance II,Ключи Steam,от 1 218 ₽,1218.0,False,-3,1082.0,1262.0,40,https://key-radar.ru/kluch-kingdom-come-2.html
 kluch-borderlands-4,Borderlands 4,Ключи Steam,от 1 792 ₽,1792.0,False,0,1780.0,1799.0,40,https://key-radar.ru/kluch-borderlands-4.html
 kluch-metro-2033-redux,Metro 2033 Redux,Ключи Steam,от 99 ₽,99.0,False,-1,95.0,100.0,40,https://key-radar.ru/kluch-metro-2033-redux.html
-kluch-sea-of-thieves,Sea of Thieves,Ключи Steam,от 1 693 ₽,1693.0,False,,1068.0,1738.0,40,https://key-radar.ru/kluch-sea-of-thieves.html
+kluch-sea-of-thieves,Sea of Thieves,Ключи Steam,от 1 738 ₽,1738.0,False,,1068.0,1738.0,40,https://key-radar.ru/kluch-sea-of-thieves.html
 kluch-project-zomboid,Project Zomboid,Ключи Steam,от 943 ₽,943.0,False,19,721.99,943.0,40,https://key-radar.ru/kluch-project-zomboid.html
 kluch-days-gone,Days Gone,Ключи Steam,от 849 ₽,849.0,False,-5,829.0,898.0,40,https://key-radar.ru/kluch-days-gone.html
-kluch-grounded,Grounded,Ключи Steam,от 897 ₽,897.0,False,3,859.0,911.0,40,https://key-radar.ru/kluch-grounded.html
+kluch-grounded,Grounded,Ключи Steam,от 909 ₽,909.0,False,4,859.0,911.0,40,https://key-radar.ru/kluch-grounded.html
 kluch-the-last-of-us-part-1,The Last of Us Part I,Ключи Steam,от 1 899 ₽,1899.0,False,0,1899.0,2294.99,40,https://key-radar.ru/kluch-the-last-of-us-part-1.html
 kluch-no-mans-sky,No Man's Sky,Ключи Steam,от 582 ₽,582.0,False,5,553.0,586.0,40,https://key-radar.ru/kluch-no-mans-sky.html
 kluch-outlast-trials,The Outlast Trials,Ключи Steam,от 479 ₽,479.0,False,-9,349.0,545.0,40,https://key-radar.ru/kluch-outlast-trials.html
 kluch-stardew-valley,Stardew Valley,Ключи Steam,от 309 ₽,309.0,False,-1,309.0,313.0,40,https://key-radar.ru/kluch-stardew-valley.html
 kluch-the-division-2,Tom Clancy's the Division 2,Ключи Steam,от 329 ₽,329.0,False,8,298.0,329.0,40,https://key-radar.ru/kluch-the-division-2.html
 kluch-ready-or-not,Ready or Not,Ключи Steam,от 469 ₽,469.0,False,-9,469.0,514.0,40,https://key-radar.ru/kluch-ready-or-not.html
-kluch-dying-light-2,Dying Light 2,Ключи Steam,от 738 ₽,738.0,False,48,487.0,738.0,40,https://key-radar.ru/kluch-dying-light-2.html
+kluch-dying-light-2,Dying Light 2,Ключи Steam,от 743 ₽,743.0,False,49,487.0,743.0,40,https://key-radar.ru/kluch-dying-light-2.html
 kluch-the-forest,The Forest,Ключи Steam,от 129 ₽,129.0,False,3,95.0,129.0,40,https://key-radar.ru/kluch-the-forest.html
 kluch-repo,R.e.p.o,Ключи Steam,от 297 ₽,297.0,False,25,232.0,297.0,40,https://key-radar.ru/kluch-repo.html
-kluch-hitman-woa,Hitman World of Assassination,Ключи Steam,от 1 501 ₽,1501.0,False,19,1238.0,1501.0,40,https://key-radar.ru/kluch-hitman-woa.html
-kluch-sekiro,Sekiro Shadows Die Twice,Ключи Steam,от 2 762 ₽,2762.0,False,1,2702.0,2770.0,40,https://key-radar.ru/kluch-sekiro.html
+kluch-hitman-woa,Hitman World of Assassination,Ключи Steam,от 1 497 ₽,1497.0,False,19,1238.0,1501.0,40,https://key-radar.ru/kluch-hitman-woa.html
+kluch-sekiro,Sekiro Shadows Die Twice,Ключи Steam,от 2 752 ₽,2752.0,False,1,2702.0,2770.0,40,https://key-radar.ru/kluch-sekiro.html
 kluch-spider-man-2,Marvel’s Spider-Man 2,Ключи Steam,от 2 179 ₽,2179.0,False,-1,2179.0,2199.0,40,https://key-radar.ru/kluch-spider-man-2.html
 kluch-death-stranding-2,Death Stranding 2,Ключи Steam,от 3 921 ₽,3921.0,False,-3,3791.0,4110.0,40,https://key-radar.ru/kluch-death-stranding-2.html
-kluch-dead-space,Dead Space Remake,Ключи Steam,от 2 757 ₽,2757.0,False,2,2650.0,2776.0,40,https://key-radar.ru/kluch-dead-space.html
+kluch-dead-space,Dead Space Remake,Ключи Steam,от 2 745 ₽,2745.0,False,2,2650.0,2776.0,40,https://key-radar.ru/kluch-dead-space.html
 kluch-dying-light-the-beast,Dying Light: The Beast,Ключи Steam,от 2 499 ₽,2499.0,False,,1467.0,2499.0,40,https://key-radar.ru/kluch-dying-light-the-beast.html
 kluch-detroit-become-human,Detroit Become Human,Ключи Steam,от 422 ₽,422.0,False,0,389.0,424.0,40,https://key-radar.ru/kluch-detroit-become-human.html
 kluch-mortal-kombat-1,Mortal Kombat 1,Ключи Steam,от 445 ₽,445.0,False,-8,445.0,530.0,40,https://key-radar.ru/kluch-mortal-kombat-1.html
@@ -98,20 +98,20 @@ kluch-metro-exodus,Metro Exodus,Ключи Steam,от 210 ₽,210.0,False,0,210.
 kluch-resident-evil-4,Resident Evil 4,Ключи Steam,от 478 ₽,478.0,False,-3,478.0,494.0,40,https://key-radar.ru/kluch-resident-evil-4.html
 kluch-dark-souls-3,Dark Souls III,Ключи Steam,от 1 499 ₽,1499.0,False,0,1499.0,1499.0,40,https://key-radar.ru/kluch-dark-souls-3.html
 kluch-schedule-1,Schedule I,Ключи Steam,от 100 ₽,100.0,False,0,100.0,100.0,40,https://key-radar.ru/kluch-schedule-1.html
-kluch-raft,Raft,Ключи Steam,от 799 ₽,799.0,False,33,522.0,801.0,40,https://key-radar.ru/kluch-raft.html
+kluch-raft,Raft,Ключи Steam,от 794 ₽,794.0,False,33,522.0,801.0,40,https://key-radar.ru/kluch-raft.html
 kluch-euro-truck-simulator-2,Euro Truck Simulator 2,Ключи Steam,от 169 ₽,169.0,False,,166.0,746.0,40,https://key-radar.ru/kluch-euro-truck-simulator-2.html
 kluch-mortal-kombat-11,Mortal Kombat 11,Ключи Steam,от 228 ₽,228.0,False,0,228.0,228.0,40,https://key-radar.ru/kluch-mortal-kombat-11.html
 kluch-god-of-war-ragnarok,God of War Ragnarök,Ключи Steam,от 2 657 ₽,2657.0,False,-3,2642.0,2730.0,40,https://key-radar.ru/kluch-god-of-war-ragnarok.html
 kluch-hollow-knight,Hollow Knight,Ключи Steam,от 431 ₽,431.0,False,1,421.0,434.0,40,https://key-radar.ru/kluch-hollow-knight.html
-kluch-factorio,Factorio,Ключи Steam,от 560 ₽,560.0,False,1,544.0,570.0,40,https://key-radar.ru/kluch-factorio.html
-kluch-rimworld,Rimworld,Ключи Steam,от 874 ₽,874.0,False,1,858.0,889.0,40,https://key-radar.ru/kluch-rimworld.html
-kluch-palworld,Palworld,Ключи Steam,от 891 ₽,891.0,False,0,881.0,895.0,40,https://key-radar.ru/kluch-palworld.html
+kluch-factorio,Factorio,Ключи Steam,от 556 ₽,556.0,False,0,544.0,570.0,40,https://key-radar.ru/kluch-factorio.html
+kluch-rimworld,Rimworld,Ключи Steam,от 871 ₽,871.0,False,1,858.0,889.0,40,https://key-radar.ru/kluch-rimworld.html
+kluch-palworld,Palworld,Ключи Steam,от 888 ₽,888.0,False,0,881.0,895.0,40,https://key-radar.ru/kluch-palworld.html
 kluch-silent-hill-2,Silent Hill 2,Ключи Steam,от 2 499 ₽,2499.0,False,1,1340.0,2499.0,40,https://key-radar.ru/kluch-silent-hill-2.html
-kluch-subnautica,Subnautica,Ключи Steam,от 455 ₽,454.83,False,1,394.0,454.83,40,https://key-radar.ru/kluch-subnautica.html
+kluch-subnautica,Subnautica,Ключи Steam,от 448 ₽,448.0,False,0,394.0,454.83,40,https://key-radar.ru/kluch-subnautica.html
 kluch-phasmophobia,Phasmophobia,Ключи Steam,от 588 ₽,588.0,False,-1,528.0,594.0,40,https://key-radar.ru/kluch-phasmophobia.html
 kluch-assassins-creed-odyssey,Assassin's Creed Odyssey,Ключи Steam,от 369 ₽,369.0,False,8,339.0,370.0,40,https://key-radar.ru/kluch-assassins-creed-odyssey.html
 kluch-assassins-creed-valhalla,Assassin's Creed Valhalla,Ключи Steam,от 688 ₽,688.0,False,0,483.0,689.0,40,https://key-radar.ru/kluch-assassins-creed-valhalla.html
-kluch-diablo-2-resurrected,Diablo II Resurrected,Ключи Steam,от 1 543 ₽,1543.0,False,-35,1543.0,2388.0,39,https://key-radar.ru/kluch-diablo-2-resurrected.html
+kluch-diablo-2-resurrected,Diablo II Resurrected,Ключи Steam,от 1 548 ₽,1548.0,False,-35,1548.0,2388.0,39,https://key-radar.ru/kluch-diablo-2-resurrected.html
 kluch-cod-mw2,Call of Duty: MW II,Ключи Steam,от 3 948 ₽,3948.0,False,0,3888.0,3949.0,37,https://key-radar.ru/kluch-cod-mw2.html
 kluch-starfield,Starfield,Ключи Steam,от 2 292 ₽,2292.0,False,0,2275.0,2292.0,40,https://key-radar.ru/kluch-starfield.html
 kluch-black-myth-wukong,Black Myth: Wukong,Ключи Steam,от 2 401 ₽,2401.0,False,0,2315.0,2428.0,40,https://key-radar.ru/kluch-black-myth-wukong.html
@@ -120,141 +120,141 @@ kluch-civilization-7,Sid Meier's Civilization VII,Ключи Steam,от 2 099 �
 kluch-cuphead,Cuphead,Ключи Steam,от 427 ₽,427.0,False,0,421.0,438.0,40,https://key-radar.ru/kluch-cuphead.html
 kluch-doom-eternal,Doom Eternal,Ключи Steam,от 607 ₽,607.0,False,33,455.0,609.0,40,https://key-radar.ru/kluch-doom-eternal.html
 kluch-sniper-elite-5,Sniper Elite 5,Ключи Steam,от 97 ₽,97.0,False,,97.0,380.0,40,https://key-radar.ru/kluch-sniper-elite-5.html
-kluch-borderlands-3,Borderlands 3,Ключи Steam,от 156 ₽,156.0,False,-1,153.0,159.0,40,https://key-radar.ru/kluch-borderlands-3.html
+kluch-borderlands-3,Borderlands 3,Ключи Steam,от 157 ₽,157.0,False,0,153.0,159.0,40,https://key-radar.ru/kluch-borderlands-3.html
 kluch-7-days-to-die,7 Days to Die,Ключи Steam,от 1 190 ₽,1190.0,False,0,739.0,1275.0,40,https://key-radar.ru/kluch-7-days-to-die.html
 kluch-horizon-forbidden-west,Horizon Forbidden West,Ключи Steam,от 1 391 ₽,1390.99,False,1,1358.0,1393.0,40,https://key-radar.ru/kluch-horizon-forbidden-west.html
-kluch-hearts-of-iron-4,Hearts of Iron IV,Ключи Steam,от 771 ₽,771.0,False,-27,771.0,1069.0,40,https://key-radar.ru/kluch-hearts-of-iron-4.html
-kluch-nier-automata,Nier Automata,Ключи Steam,от 876 ₽,876.0,False,1,854.0,888.0,40,https://key-radar.ru/kluch-nier-automata.html
+kluch-hearts-of-iron-4,Hearts of Iron IV,Ключи Steam,от 757 ₽,757.0,False,-29,757.0,1069.0,40,https://key-radar.ru/kluch-hearts-of-iron-4.html
+kluch-nier-automata,Nier Automata,Ключи Steam,от 868 ₽,868.0,False,0,854.0,888.0,40,https://key-radar.ru/kluch-nier-automata.html
 kluch-sons-of-the-forest,Sons of the Forest,Ключи Steam,от 499 ₽,499.0,False,30,279.0,499.0,40,https://key-radar.ru/kluch-sons-of-the-forest.html
 kluch-ea-sports-fc-25,EA Sports FC 25,Ключи Steam,от 5 499 ₽,5499.0,False,,1999.0,5499.0,34,https://key-radar.ru/kluch-ea-sports-fc-25.html
-kluch-expedition-33,Clair Obscur: Expedition 33,Ключи Steam,от 1 834 ₽,1833.85,False,-1,1813.0,1857.0,40,https://key-radar.ru/kluch-expedition-33.html
-kluch-battlefield-1,Battlefield 1,Ключи Steam,от 2 301 ₽,2301.0,False,2,2237.0,2308.0,40,https://key-radar.ru/kluch-battlefield-1.html
+kluch-expedition-33,Clair Obscur: Expedition 33,Ключи Steam,от 1 833 ₽,1833.0,False,-1,1813.0,1857.0,40,https://key-radar.ru/kluch-expedition-33.html
+kluch-battlefield-1,Battlefield 1,Ключи Steam,от 2 292 ₽,2292.0,False,1,2237.0,2308.0,40,https://key-radar.ru/kluch-battlefield-1.html
 kluch-spider-man-remastered,Marvel’s Spider-Man Remastered,Ключи Steam,от 1 198 ₽,1198.0,False,-2,1198.0,1799.0,40,https://key-radar.ru/kluch-spider-man-remastered.html
 kluch-f1-25,F1 25,Ключи Steam,от 2 317 ₽,2317.0,False,2,2236.0,2320.0,40,https://key-radar.ru/kluch-f1-25.html
 kluch-payday-2,Payday 2,Ключи Steam,от 229 ₽,229.0,False,19,193.0,229.0,40,https://key-radar.ru/kluch-payday-2.html
 kluch-indiana-jones-great-circle,Indiana Jones and the Great Circle,Ключи Steam,от 2 134 ₽,2134.0,False,-1,2134.0,2309.48,40,https://key-radar.ru/kluch-indiana-jones-great-circle.html
 kluch-lies-of-p,Lies of P,Ключи Steam,от 1 945 ₽,1945.0,False,1,1898.0,1949.0,40,https://key-radar.ru/kluch-lies-of-p.html
-kluch-persona-5-royal,Persona 5 Royal,Ключи Steam,от 1 396 ₽,1396.0,False,14,1198.0,1396.0,40,https://key-radar.ru/kluch-persona-5-royal.html
+kluch-persona-5-royal,Persona 5 Royal,Ключи Steam,от 1 336 ₽,1336.0,False,9,1198.0,1336.0,40,https://key-radar.ru/kluch-persona-5-royal.html
 kluch-mafia-the-old-country,Mafia: The Old Country,Ключи Steam,от 1 190 ₽,1190.0,False,15,773.47,1649.0,40,https://key-radar.ru/kluch-mafia-the-old-country.html
 kluch-assetto-corsa,Assetto Corsa,Ключи Steam,от 209 ₽,209.0,False,11,180.0,214.0,40,https://key-radar.ru/kluch-assetto-corsa.html
 kluch-dragons-dogma-2,Dragon's Dogma 2,Ключи Steam,от 1 207 ₽,1207.36,False,-5,1207.36,1273.12,40,https://key-radar.ru/kluch-dragons-dogma-2.html
 kluch-crusader-kings-3,Crusader Kings 3,Ключи Steam,от 959 ₽,959.0,False,-4,959.0,999.0,40,https://key-radar.ru/kluch-crusader-kings-3.html
-kluch-rainbow-six-siege,Tom Clancy's Rainbow Six Siege,Ключи Steam,от 1 094 ₽,1094.0,False,1,1050.0,1094.0,40,https://key-radar.ru/kluch-rainbow-six-siege.html
+kluch-rainbow-six-siege,Tom Clancy's Rainbow Six Siege,Ключи Steam,от 1 093 ₽,1093.0,False,1,1050.0,1093.0,40,https://key-radar.ru/kluch-rainbow-six-siege.html
 kluch-divinity-original-sin-2,Divinity Original Sin 2,Ключи Steam,от 799 ₽,799.0,False,-3,699.0,836.0,40,https://key-radar.ru/kluch-divinity-original-sin-2.html
-kluch-the-last-of-us-part-2,The Last of Us Part II,Ключи Steam,от 2 322 ₽,2322.33,False,33,1745.0,2322.99,40,https://key-radar.ru/kluch-the-last-of-us-part-2.html
+kluch-the-last-of-us-part-2,The Last of Us Part II,Ключи Steam,от 2 323 ₽,2322.87,False,33,1745.0,2322.99,40,https://key-radar.ru/kluch-the-last-of-us-part-2.html
 kluch-monster-hunter-wilds,Monster Hunter Wilds,Ключи Steam,от 1 739 ₽,1739.0,False,0,1739.0,1739.0,36,https://key-radar.ru/kluch-monster-hunter-wilds.html
 kluch-silksong,Hollow Knight: Silksong,Ключи Steam,от 592 ₽,592.0,False,1,579.0,604.0,40,https://key-radar.ru/kluch-silksong.html
 kluch-stellaris,Stellaris,Ключи Steam,от 898 ₽,898.0,False,-9,898.0,983.0,40,https://key-radar.ru/kluch-stellaris.html
-kluch-mass-effect-legendary,Mass Effect Legendary Edition,Ключи Steam,от 2 769 ₽,2769.0,False,2,2695.0,2771.0,40,https://key-radar.ru/kluch-mass-effect-legendary.html
+kluch-mass-effect-legendary,Mass Effect Legendary Edition,Ключи Steam,от 2 763 ₽,2763.0,False,2,2695.0,2771.0,40,https://key-radar.ru/kluch-mass-effect-legendary.html
 kluch-resident-evil-village,Resident Evil Village,Ключи Steam,от 485 ₽,485.0,False,-1,469.0,498.0,40,https://key-radar.ru/kluch-resident-evil-village.html
-kluch-cod-mw3,Call of Duty Modern Warfare 3,Ключи Steam,от 3 877 ₽,3877.0,False,1,3789.0,3896.47,40,https://key-radar.ru/kluch-cod-mw3.html
+kluch-cod-mw3,Call of Duty Modern Warfare 3,Ключи Steam,от 3 889 ₽,3889.0,False,1,3789.0,3896.47,40,https://key-radar.ru/kluch-cod-mw3.html
 kluch-doom-the-dark-ages,Doom the Dark Ages,Ключи Steam,от 1 299 ₽,1299.15,False,2,1236.78,1304.44,40,https://key-radar.ru/kluch-doom-the-dark-ages.html
 kluch-manor-lords,Manor Lords,Ключи Steam,от 658 ₽,658.0,False,-1,648.0,668.0,40,https://key-radar.ru/kluch-manor-lords.html
 kluch-assassins-creed-shadows,Assassin's Creed Shadows,Ключи Steam,от 1 603 ₽,1603.0,False,7,1463.0,1603.0,40,https://key-radar.ru/kluch-assassins-creed-shadows.html
 kluch-tekken-8,Tekken 8,Ключи Steam,от 1 778 ₽,1778.0,False,0,1778.0,1784.0,40,https://key-radar.ru/kluch-tekken-8.html
-kluch-enshrouded,Enshrouded,Ключи Steam,от 1 576 ₽,1576.0,False,0,1556.0,1601.0,40,https://key-radar.ru/kluch-enshrouded.html
+kluch-enshrouded,Enshrouded,Ключи Steam,от 1 583 ₽,1583.0,False,0,1556.0,1601.0,40,https://key-radar.ru/kluch-enshrouded.html
 kluch-hades,Hades,Ключи Steam,от 425 ₽,425.0,False,0,421.0,425.0,40,https://key-radar.ru/kluch-hades.html
-kluch-satisfactory,Satisfactory,Ключи Steam,от 1 107 ₽,1107.0,False,1,1085.0,1124.0,40,https://key-radar.ru/kluch-satisfactory.html
+kluch-satisfactory,Satisfactory,Ключи Steam,от 1 106 ₽,1106.0,False,1,1085.0,1124.0,40,https://key-radar.ru/kluch-satisfactory.html
 kluch-the-crew-motorfest,The Crew Motorfest,Ключи Steam,от 494 ₽,494.0,False,,494.0,2539.0,40,https://key-radar.ru/kluch-the-crew-motorfest.html
 kluch-persona-3-reload,Persona 3 Reload,Ключи Steam,от 1 373 ₽,1373.0,False,0,1355.0,1383.0,40,https://key-radar.ru/kluch-persona-3-reload.html
 kluch-payday-3,Payday 3,Ключи Steam,от 349 ₽,349.0,False,7,324.0,699.0,40,https://key-radar.ru/kluch-payday-3.html
 kluch-deep-rock-galactic,Deep Rock Galactic,Ключи Steam,от 645 ₽,645.0,False,,251.0,734.99,40,https://key-radar.ru/kluch-deep-rock-galactic.html
-kluch-remnant-2,Remnant 2,Ключи Steam,от 419 ₽,418.99,False,11,376.99,418.99,40,https://key-radar.ru/kluch-remnant-2.html
+kluch-remnant-2,Remnant 2,Ключи Steam,от 391 ₽,390.6,False,4,376.99,418.99,40,https://key-radar.ru/kluch-remnant-2.html
 kluch-assassins-creed-mirage,Assassin's Creed Mirage,Ключи Steam,от 659 ₽,659.0,False,9,593.0,735.0,40,https://key-radar.ru/kluch-assassins-creed-mirage.html
 kluch-cult-of-the-lamb,Cult of the Lamb,Ключи Steam,от 589 ₽,589.0,False,0,589.0,589.0,40,https://key-radar.ru/kluch-cult-of-the-lamb.html
-kluch-need-for-speed-unbound,Need For Speed Unbound,Ключи Steam,от 3 220 ₽,3220.0,False,2,3116.0,3258.0,40,https://key-radar.ru/kluch-need-for-speed-unbound.html
+kluch-need-for-speed-unbound,Need For Speed Unbound,Ключи Steam,от 3 214 ₽,3214.0,False,1,3116.0,3258.0,40,https://key-radar.ru/kluch-need-for-speed-unbound.html
 kluch-mount-and-blade-2-bannerlord,Mount and Blade II Bannerlord,Ключи Steam,от 1 129 ₽,1129.0,False,-5,1128.0,1194.0,40,https://key-radar.ru/kluch-mount-and-blade-2-bannerlord.html
-kluch-star-wars-outlaws,Star Wars Outlaws,Ключи Steam,от 2 873 ₽,2873.0,False,0,2792.0,2873.0,40,https://key-radar.ru/kluch-star-wars-outlaws.html
+kluch-star-wars-outlaws,Star Wars Outlaws,Ключи Steam,от 2 877 ₽,2877.0,False,0,2792.0,2877.0,40,https://key-radar.ru/kluch-star-wars-outlaws.html
 kluch-planet-zoo,Planet Zoo,Ключи Steam,от 748 ₽,747.99,False,0,743.99,775.0,40,https://key-radar.ru/kluch-planet-zoo.html
 kluch-assassins-creed-origins,Assassin's Creed Origins,Ключи Steam,от 279 ₽,279.0,False,10,252.0,279.0,40,https://key-radar.ru/kluch-assassins-creed-origins.html
-kluch-need-for-speed-heat,Need For Speed Heat,Ключи Steam,от 3 246 ₽,3246.0,False,3,3118.0,3256.0,40,https://key-radar.ru/kluch-need-for-speed-heat.html
+kluch-need-for-speed-heat,Need For Speed Heat,Ключи Steam,от 3 239 ₽,3239.0,False,3,3118.0,3256.0,40,https://key-radar.ru/kluch-need-for-speed-heat.html
 kluch-lords-of-the-fallen,Lords of the Fallen,Ключи Steam,от 190 ₽,189.84,False,3,179.62,189.84,40,https://key-radar.ru/kluch-lords-of-the-fallen.html
-kluch-lethal-company,Lethal Company,Ключи Steam,от 395 ₽,395.0,False,-1,395.0,399.0,40,https://key-radar.ru/kluch-lethal-company.html
-kluch-american-truck-simulator,American Truck Simulator,Ключи Steam,от 186 ₽,186.0,False,,186.0,499.0,40,https://key-radar.ru/kluch-american-truck-simulator.html
-kluch-green-hell,Green Hell,Ключи Steam,от 121 ₽,121.0,False,,59.0,134.0,40,https://key-radar.ru/kluch-green-hell.html
+kluch-lethal-company,Lethal Company,Ключи Steam,от 393 ₽,393.0,False,-1,393.0,399.0,40,https://key-radar.ru/kluch-lethal-company.html
+kluch-american-truck-simulator,American Truck Simulator,Ключи Steam,от 189 ₽,189.0,False,,186.0,499.0,40,https://key-radar.ru/kluch-american-truck-simulator.html
+kluch-green-hell,Green Hell,Ключи Steam,от 117 ₽,117.0,False,,59.0,134.0,40,https://key-radar.ru/kluch-green-hell.html
 kluch-yakuza-0,Yakuza 0,Ключи Steam,от 3 850 ₽,3850.0,False,,2095.0,3850.0,11,https://key-radar.ru/kluch-yakuza-0.html
 kluch-dead-cells,Dead Cells,Ключи Steam,от 249 ₽,249.0,False,14,218.0,249.0,40,https://key-radar.ru/kluch-dead-cells.html
-kluch-battlefield-2042,Battlefield 2042,Ключи Steam,от 2 754 ₽,2754.0,False,1,2690.0,2796.0,40,https://key-radar.ru/kluch-battlefield-2042.html
+kluch-battlefield-2042,Battlefield 2042,Ключи Steam,от 2 749 ₽,2749.0,False,1,2690.0,2796.0,40,https://key-radar.ru/kluch-battlefield-2042.html
 kluch-conan-exiles,Conan Exiles,Ключи Steam,от 457 ₽,457.0,False,5,421.0,457.0,40,https://key-radar.ru/kluch-conan-exiles.html
 kluch-grim-dawn,Grim Dawn,Ключи Steam,от 799 ₽,799.0,False,33,599.0,975.0,40,https://key-radar.ru/kluch-grim-dawn.html
 kluch-street-fighter-6,Street Fighter 6,Ключи Steam,от 899 ₽,899.0,False,0,899.0,899.0,40,https://key-radar.ru/kluch-street-fighter-6.html
-kluch-elden-ring-nightreign,Elden Ring Nightreign,Ключи Steam,от 1 894 ₽,1894.0,False,1,1848.0,1899.0,40,https://key-radar.ru/kluch-elden-ring-nightreign.html
+kluch-elden-ring-nightreign,Elden Ring Nightreign,Ключи Steam,от 1 877 ₽,1877.0,False,0,1848.0,1899.0,40,https://key-radar.ru/kluch-elden-ring-nightreign.html
 kluch-mudrunner,Mudrunner,Ключи Steam,от 326 ₽,326.0,False,-3,312.0,348.0,40,https://key-radar.ru/kluch-mudrunner.html
 kluch-abiotic-factor,Abiotic Factor,Ключи Steam,от 779 ₽,779.0,False,1,770.0,779.0,40,https://key-radar.ru/kluch-abiotic-factor.html
-kluch-the-crew-2,The Crew 2,Ключи Steam,от 1 621 ₽,1621.0,False,0,1569.0,1641.0,40,https://key-radar.ru/kluch-the-crew-2.html
+kluch-the-crew-2,The Crew 2,Ключи Steam,от 1 624 ₽,1624.0,False,0,1569.0,1641.0,40,https://key-radar.ru/kluch-the-crew-2.html
 kluch-cod-black-ops-6,Call of Duty Black Ops 6,Ключи Steam,от 3 951 ₽,3951.0,False,1,3767.0,3981.0,40,https://key-radar.ru/kluch-cod-black-ops-6.html
-kluch-the-long-dark,The Long Dark,Ключи Steam,от 743 ₽,743.0,False,-2,708.0,757.0,40,https://key-radar.ru/kluch-the-long-dark.html
+kluch-the-long-dark,The Long Dark,Ключи Steam,от 749 ₽,749.0,False,-1,708.0,757.0,40,https://key-radar.ru/kluch-the-long-dark.html
 kluch-forza-motorsport,Forza Motorsport,Ключи Steam,от 2 533 ₽,2533.0,False,0,2503.0,2541.0,40,https://key-radar.ru/kluch-forza-motorsport.html
 kluch-the-outer-worlds,The Outer Worlds,Ключи Steam,от 1 919 ₽,1919.0,False,1,1860.0,1919.0,30,https://key-radar.ru/kluch-the-outer-worlds.html
 kluch-slay-the-spire,Slay the Spire,Ключи Steam,от 495 ₽,495.0,False,-13,249.0,594.99,40,https://key-radar.ru/kluch-slay-the-spire.html
-kluch-star-wars-jedi-survivor,Star Wars Jedi Survivor,Ключи Steam,от 3 205 ₽,3205.0,False,1,3094.0,3206.0,40,https://key-radar.ru/kluch-star-wars-jedi-survivor.html
-kluch-v-rising,V Rising,Ключи Steam,от 476 ₽,476.0,False,7,411.99,476.0,40,https://key-radar.ru/kluch-v-rising.html
-kluch-metaphor-refantazio,Metaphor Refantazio,Ключи Steam,от 1 448 ₽,1448.0,False,,1448.0,2999.0,40,https://key-radar.ru/kluch-metaphor-refantazio.html
+kluch-star-wars-jedi-survivor,Star Wars Jedi Survivor,Ключи Steam,от 3 204 ₽,3204.0,False,1,3094.0,3206.0,40,https://key-radar.ru/kluch-star-wars-jedi-survivor.html
+kluch-v-rising,V Rising,Ключи Steam,от 480 ₽,480.0,False,8,411.99,480.0,40,https://key-radar.ru/kluch-v-rising.html
+kluch-metaphor-refantazio,Metaphor Refantazio,Ключи Steam,от 1 436 ₽,1436.0,False,,1436.0,2999.0,40,https://key-radar.ru/kluch-metaphor-refantazio.html
 kluch-assetto-corsa-competizione,Assetto Corsa Competizione,Ключи Steam,от 209 ₽,209.0,False,11,180.0,214.0,40,https://key-radar.ru/kluch-assetto-corsa-competizione.html
 kluch-dave-the-diver,Dave the Diver,Ключи Steam,от 388 ₽,388.0,False,13,342.0,388.0,40,https://key-radar.ru/kluch-dave-the-diver.html
 kluch-ori-will-of-the-wisps,Ori and the Will of the Wisps,Ключи Steam,от 624 ₽,623.99,False,2,599.0,626.0,40,https://key-radar.ru/kluch-ori-will-of-the-wisps.html
-kluch-last-epoch,Last Epoch,Ключи Steam,от 1 329 ₽,1329.0,False,2,1288.0,1329.0,40,https://key-radar.ru/kluch-last-epoch.html
-kluch-victoria-3,Victoria 3,Ключи Steam,от 1 025 ₽,1025.0,False,-10,828.0,1150.0,40,https://key-radar.ru/kluch-victoria-3.html
-kluch-frostpunk-2,Frostpunk 2,Ключи Steam,от 696 ₽,696.0,False,-1,695.0,737.0,40,https://key-radar.ru/kluch-frostpunk-2.html
-kluch-star-wars-jedi-fallen-order,Star Wars Jedi Fallen Order,Ключи Steam,от 2 012 ₽,2012.0,False,2,1943.0,2030.0,40,https://key-radar.ru/kluch-star-wars-jedi-fallen-order.html
+kluch-last-epoch,Last Epoch,Ключи Steam,от 1 325 ₽,1325.0,False,2,1288.0,1329.0,40,https://key-radar.ru/kluch-last-epoch.html
+kluch-victoria-3,Victoria 3,Ключи Steam,от 1 023 ₽,1023.0,False,-10,828.0,1150.0,40,https://key-radar.ru/kluch-victoria-3.html
+kluch-frostpunk-2,Frostpunk 2,Ключи Steam,от 695 ₽,695.0,False,-1,695.0,737.0,40,https://key-radar.ru/kluch-frostpunk-2.html
+kluch-star-wars-jedi-fallen-order,Star Wars Jedi Fallen Order,Ключи Steam,от 2 007 ₽,2007.0,False,2,1943.0,2030.0,40,https://key-radar.ru/kluch-star-wars-jedi-fallen-order.html
 kluch-final-fantasy-16,Final Fantasy XVI,Ключи Steam,от 1 999 ₽,1999.0,False,0,1999.0,1999.0,40,https://key-radar.ru/kluch-final-fantasy-16.html
-kluch-northgard,Northgard,Ключи Steam,от 685 ₽,685.0,False,3,629.99,685.0,40,https://key-radar.ru/kluch-northgard.html
+kluch-northgard,Northgard,Ключи Steam,от 657 ₽,657.0,False,-2,629.99,677.0,40,https://key-radar.ru/kluch-northgard.html
 kluch-vampire-survivors,Vampire Survivors,Ключи Steam,от 146 ₽,146.0,False,-1,145.0,148.0,40,https://key-radar.ru/kluch-vampire-survivors.html
-kluch-jurassic-world-evolution-2,Jurassic World Evolution 2,Ключи Steam,от 587 ₽,587.0,False,0,585.99,601.0,40,https://key-radar.ru/kluch-jurassic-world-evolution-2.html
-kluch-a-plague-tale-requiem,A Plague Tale Requiem,Ключи Steam,от 1 161 ₽,1160.99,False,,654.0,1160.99,40,https://key-radar.ru/kluch-a-plague-tale-requiem.html
+kluch-jurassic-world-evolution-2,Jurassic World Evolution 2,Ключи Steam,от 588 ₽,588.0,False,0,585.99,601.0,40,https://key-radar.ru/kluch-jurassic-world-evolution-2.html
+kluch-a-plague-tale-requiem,A Plague Tale Requiem,Ключи Steam,от 1 163 ₽,1162.99,False,,654.0,1162.99,40,https://key-radar.ru/kluch-a-plague-tale-requiem.html
 kluch-tekken-7,Tekken 7,Ключи Steam,от 148 ₽,148.0,False,3,131.0,148.0,40,https://key-radar.ru/kluch-tekken-7.html
-kluch-age-of-empires-4,Age of Empires IV,Ключи Steam,от 1 200 ₽,1200.0,False,2,1140.0,1200.0,40,https://key-radar.ru/kluch-age-of-empires-4.html
-kluch-company-of-heroes-3,Company of Heroes 3,Ключи Steam,от 671 ₽,671.0,False,2,661.0,779.0,40,https://key-radar.ru/kluch-company-of-heroes-3.html
-kluch-final-fantasy-7-remake,Final Fantasy VII Remake Intergrade,Ключи Steam,от 1 298 ₽,1298.0,False,0,1238.0,1475.0,40,https://key-radar.ru/kluch-final-fantasy-7-remake.html
+kluch-age-of-empires-4,Age of Empires IV,Ключи Steam,от 1 189 ₽,1189.0,False,2,1140.0,1196.0,40,https://key-radar.ru/kluch-age-of-empires-4.html
+kluch-company-of-heroes-3,Company of Heroes 3,Ключи Steam,от 670 ₽,670.0,False,1,661.0,779.0,40,https://key-radar.ru/kluch-company-of-heroes-3.html
+kluch-final-fantasy-7-remake,Final Fantasy VII Remake Intergrade,Ключи Steam,от 1 248 ₽,1248.0,False,-4,1238.0,1475.0,40,https://key-radar.ru/kluch-final-fantasy-7-remake.html
 kluch-football-manager-2024,Football Manager 2024,Ключи Steam,от 8 999 ₽,8999.0,False,0,8999.0,8999.0,7,https://key-radar.ru/kluch-football-manager-2024.html
-kluch-cities-skylines-2,Cities Skylines II,Ключи Steam,от 1 810 ₽,1810.0,False,-28,1810.0,2538.0,40,https://key-radar.ru/kluch-cities-skylines-2.html
+kluch-cities-skylines-2,Cities Skylines II,Ключи Steam,от 1 769 ₽,1769.0,False,-30,1769.0,2538.0,40,https://key-radar.ru/kluch-cities-skylines-2.html
 kluch-pathfinder-wrath,Pathfinder Wrath of the Righteous,Ключи Steam,от 99 ₽,99.0,False,-26,99.0,133.0,40,https://key-radar.ru/kluch-pathfinder-wrath.html
 kluch-world-war-z,World War Z Aftermath,Ключи Steam,от 359 ₽,359.0,False,0,359.0,384.0,40,https://key-radar.ru/kluch-world-war-z.html
 kluch-final-fantasy-15,Final Fantasy XV,Ключи Steam,от 970 ₽,969.61,False,0,969.61,969.61,40,https://key-radar.ru/kluch-final-fantasy-15.html
 kluch-nioh-2,Nioh 2,Ключи Steam,от 1 829 ₽,1828.99,False,4,1724.0,1831.0,40,https://key-radar.ru/kluch-nioh-2.html
 kluch-balatro,Balatro,Ключи Steam,от 445 ₽,445.0,False,-9,423.0,488.0,40,https://key-radar.ru/kluch-balatro.html
 kluch-blasphemous-2,Blasphemous 2,Ключи Steam,от 398 ₽,398.0,False,45,275.0,398.0,40,https://key-radar.ru/kluch-blasphemous-2.html
-kluch-total-war-three-kingdoms,Total War Three Kingdoms,Ключи Steam,от 721 ₽,721.0,False,-9,693.0,794.0,40,https://key-radar.ru/kluch-total-war-three-kingdoms.html
+kluch-total-war-three-kingdoms,Total War Three Kingdoms,Ключи Steam,от 699 ₽,699.0,False,-12,693.0,794.0,40,https://key-radar.ru/kluch-total-war-three-kingdoms.html
 kluch-tropico-6,Tropico 6,Ключи Steam,от 779 ₽,779.0,False,-11,362.0,974.0,40,https://key-radar.ru/kluch-tropico-6.html
 kluch-content-warning,Content Warning,Ключи Steam,от 278 ₽,278.0,False,0,278.0,279.0,40,https://key-radar.ru/kluch-content-warning.html
-kluch-dirt-5,Dirt 5,Ключи Steam,от 1 204 ₽,1204.0,False,2,1150.0,1214.24,40,https://key-radar.ru/kluch-dirt-5.html
+kluch-dirt-5,Dirt 5,Ключи Steam,от 1 193 ₽,1193.0,False,1,1150.0,1214.24,40,https://key-radar.ru/kluch-dirt-5.html
 kluch-guilty-gear-strive,Guilty Gear Strive,Ключи Steam,от 1 235 ₽,1235.0,False,-7,1235.0,1324.0,40,https://key-radar.ru/kluch-guilty-gear-strive.html
 kluch-a-plague-tale-innocence,A Plague Tale Innocence,Ключи Steam,от 424 ₽,424.0,False,,184.0,424.0,40,https://key-radar.ru/kluch-a-plague-tale-innocence.html
-kluch-wo-long,Wo Long Fallen Dynasty,Ключи Steam,от 1 360 ₽,1360.0,False,1,1328.0,1370.0,40,https://key-radar.ru/kluch-wo-long.html
-kluch-pacific-drive,Pacific Drive,Ключи Steam,от 398 ₽,398.0,False,4,376.0,400.0,40,https://key-radar.ru/kluch-pacific-drive.html
+kluch-wo-long,Wo Long Fallen Dynasty,Ключи Steam,от 1 328 ₽,1328.0,False,-1,1328.0,1370.0,40,https://key-radar.ru/kluch-wo-long.html
+kluch-pacific-drive,Pacific Drive,Ключи Steam,от 396 ₽,396.0,False,3,376.0,400.0,40,https://key-radar.ru/kluch-pacific-drive.html
 kluch-the-callisto-protocol,The Callisto Protocol,Ключи Steam,от 671 ₽,671.44,False,0,642.0,676.25,40,https://key-radar.ru/kluch-the-callisto-protocol.html
 kluch-darktide,Warhammer 40000 Darktide,Ключи Steam,от 698 ₽,698.0,False,1,694.0,735.0,40,https://key-radar.ru/kluch-darktide.html
 kluch-subnautica-below-zero,Subnautica Below Zero,Ключи Steam,от 899 ₽,899.0,False,-2,899.0,989.0,40,https://key-radar.ru/kluch-subnautica-below-zero.html
-kluch-two-point-museum,Two Point Museum,Ключи Steam,от 1 710 ₽,1710.0,False,0,1662.0,1719.0,40,https://key-radar.ru/kluch-two-point-museum.html
+kluch-two-point-museum,Two Point Museum,Ключи Steam,от 1 692 ₽,1692.0,False,-1,1662.0,1719.0,40,https://key-radar.ru/kluch-two-point-museum.html
 kluch-oxygen-not-included,Oxygen Not Included,Ключи Steam,от 450 ₽,450.0,False,-3,450.0,468.0,40,https://key-radar.ru/kluch-oxygen-not-included.html
-kluch-they-are-billions,They Are Billions,Ключи Steam,от 1 164 ₽,1164.0,False,-1,1132.0,1185.0,40,https://key-radar.ru/kluch-they-are-billions.html
-kluch-ea-sports-wrc,EA Sports Wrc,Ключи Steam,от 2 318 ₽,2318.0,False,1,2237.0,2318.0,18,https://key-radar.ru/kluch-ea-sports-wrc.html
-kluch-sea-of-stars,Sea of Stars,Ключи Steam,от 533 ₽,533.0,False,-1,478.99,548.0,40,https://key-radar.ru/kluch-sea-of-stars.html
+kluch-they-are-billions,They Are Billions,Ключи Steam,от 1 168 ₽,1168.0,False,0,1132.0,1185.0,40,https://key-radar.ru/kluch-they-are-billions.html
+kluch-ea-sports-wrc,EA Sports Wrc,Ключи Steam,от 2 308 ₽,2308.0,False,0,2237.0,2318.0,18,https://key-radar.ru/kluch-ea-sports-wrc.html
+kluch-sea-of-stars,Sea of Stars,Ключи Steam,от 554 ₽,554.0,False,3,478.99,554.0,40,https://key-radar.ru/kluch-sea-of-stars.html
 kluch-warhammer-40k-rogue-trader,Warhammer 40000 Rogue Trader,Ключи Steam,от 299 ₽,299.0,False,-11,299.0,339.0,40,https://key-radar.ru/kluch-warhammer-40k-rogue-trader.html
 kluch-tales-of-arise,Tales of Arise,Ключи Steam,от 1 399 ₽,1399.0,False,-1,1264.0,1449.0,40,https://key-radar.ru/kluch-tales-of-arise.html
-kluch-inscryption,Inscryption,Ключи Steam,от 566 ₽,566.0,False,,220.0,572.0,40,https://key-radar.ru/kluch-inscryption.html
+kluch-inscryption,Inscryption,Ключи Steam,от 562 ₽,562.0,False,,220.0,572.0,40,https://key-radar.ru/kluch-inscryption.html
 kluch-the-medium,The Medium,Ключи Steam,от 333 ₽,332.99,False,-7,331.99,357.99,40,https://key-radar.ru/kluch-the-medium.html
-kluch-europa-universalis-4,Europa Universalis IV,Ключи Steam,от 364 ₽,364.0,False,4,350.0,364.0,40,https://key-radar.ru/kluch-europa-universalis-4.html
-kluch-like-a-dragon-infinite-wealth,Like a Dragon Infinite Wealth,Ключи Steam,от 484 ₽,484.0,False,-1,472.0,537.99,40,https://key-radar.ru/kluch-like-a-dragon-infinite-wealth.html
-kluch-armored-core-6,Armored Core VI,Ключи Steam,от 2 532 ₽,2531.99,False,-10,2531.99,2862.99,40,https://key-radar.ru/kluch-armored-core-6.html
-kluch-little-nightmares-2,Little Nightmares II,Ключи Steam,от 567 ₽,567.0,False,16,449.0,567.0,40,https://key-radar.ru/kluch-little-nightmares-2.html
+kluch-europa-universalis-4,Europa Universalis IV,Ключи Steam,от 363 ₽,363.0,False,4,350.0,364.0,40,https://key-radar.ru/kluch-europa-universalis-4.html
+kluch-like-a-dragon-infinite-wealth,Like a Dragon Infinite Wealth,Ключи Steam,от 482 ₽,482.0,False,-1,472.0,537.99,40,https://key-radar.ru/kluch-like-a-dragon-infinite-wealth.html
+kluch-armored-core-6,Armored Core VI,Ключи Steam,от 2 636 ₽,2636.0,False,-6,2636.0,2862.99,40,https://key-radar.ru/kluch-armored-core-6.html
+kluch-little-nightmares-2,Little Nightmares II,Ключи Steam,от 526 ₽,526.0,False,8,449.0,554.0,40,https://key-radar.ru/kluch-little-nightmares-2.html
 kluch-hades-2,Hades II,Ключи Steam,от 856 ₽,856.0,False,1,846.0,872.0,40,https://key-radar.ru/kluch-hades-2.html
-kluch-pizza-tower,Pizza Tower,Ключи Steam,от 429 ₽,429.0,False,-2,422.0,441.0,40,https://key-radar.ru/kluch-pizza-tower.html
+kluch-pizza-tower,Pizza Tower,Ключи Steam,от 425 ₽,425.0,False,-3,422.0,441.0,40,https://key-radar.ru/kluch-pizza-tower.html
 kluch-nba-2k25,NBA 2k25,Ключи Steam,от 1 699 ₽,1699.0,False,0,1699.0,1699.0,40,https://key-radar.ru/kluch-nba-2k25.html
 kluch-dragon-ball-sparking-zero,Dragon Ball Sparking Zero,Ключи Steam,от 1 619 ₽,1619.0,False,0,1619.0,1619.0,40,https://key-radar.ru/kluch-dragon-ball-sparking-zero.html
 kluch-dragon-age-veilguard,Dragon Age the Veilguard,Ключи Steam,от 2 786 ₽,2786.0,False,2,2683.0,2797.0,40,https://key-radar.ru/kluch-dragon-age-veilguard.html
 kluch-against-the-storm,Against the Storm,Ключи Steam,от 199 ₽,199.0,False,-16,197.0,236.0,40,https://key-radar.ru/kluch-against-the-storm.html
-kluch-amnesia-the-bunker,Amnesia the Bunker,Ключи Steam,от 256 ₽,256.0,False,-2,229.0,270.0,40,https://key-radar.ru/kluch-amnesia-the-bunker.html
+kluch-amnesia-the-bunker,Amnesia the Bunker,Ключи Steam,от 237 ₽,237.0,False,-10,229.0,270.0,40,https://key-radar.ru/kluch-amnesia-the-bunker.html
 kluch-disco-elysium,Disco Elysium Final Cut,Ключи Steam,от 159 ₽,159.0,False,0,158.0,165.84,40,https://key-radar.ru/kluch-disco-elysium.html
-kluch-warhammer-40k-boltgun,Warhammer 40000 Boltgun,Ключи Steam,от 437 ₽,437.0,False,0,426.0,443.0,40,https://key-radar.ru/kluch-warhammer-40k-boltgun.html
+kluch-warhammer-40k-boltgun,Warhammer 40000 Boltgun,Ключи Steam,от 433 ₽,433.0,False,-1,426.0,443.0,40,https://key-radar.ru/kluch-warhammer-40k-boltgun.html
 kluch-octopath-traveler-2,Octopath Traveler 2,Ключи Steam,от 947 ₽,946.99,False,1,923.0,953.0,40,https://key-radar.ru/kluch-octopath-traveler-2.html
 kluch-darkest-dungeon-2,Darkest Dungeon II,Ключи Steam,от 428 ₽,428.0,False,0,428.0,428.0,40,https://key-radar.ru/kluch-darkest-dungeon-2.html
-kluch-dragon-ball-fighterz,Dragon Ball Fighterz,Ключи Steam,от 539 ₽,539.0,False,49,362.0,544.0,40,https://key-radar.ru/kluch-dragon-ball-fighterz.html
+kluch-dragon-ball-fighterz,Dragon Ball Fighterz,Ключи Steam,от 537 ₽,537.0,False,48,362.0,544.0,40,https://key-radar.ru/kluch-dragon-ball-fighterz.html
 kluch-dyson-sphere-program,Dyson Sphere Program,Ключи Steam,от 534 ₽,534.0,False,3,501.0,546.0,40,https://key-radar.ru/kluch-dyson-sphere-program.html
 ai-chatgpt,ChatGPT,Нейросети,от 749 ₽,749.0,False,0,749.0,749.0,40,https://key-radar.ru/ai-chatgpt.html
-ai-claude,Claude,Нейросети,от 2 317 ₽,2317.0,False,10,1959.0,2317.0,66,https://key-radar.ru/ai-claude.html
+ai-claude,Claude,Нейросети,от 2 339 ₽,2339.0,False,11,1959.0,2339.0,65,https://key-radar.ru/ai-claude.html
 ai-gemini,Gemini,Нейросети,от 699 ₽,699.0,False,0,699.0,849.0,30,https://key-radar.ru/ai-gemini.html
-ai-grok,Grok,Нейросети,от 700 ₽,700.0,False,2,499.0,700.0,36,https://key-radar.ru/ai-grok.html
+ai-grok,Grok,Нейросети,от 700 ₽,700.0,False,2,499.0,700.0,35,https://key-radar.ru/ai-grok.html
 ai-suno,Suno,Нейросети,от 690 ₽,690.0,False,-30,690.0,989.0,28,https://key-radar.ru/ai-suno.html
 ai-perplexity,Perplexity,Нейросети,от 1 349 ₽,1349.0,False,0,1349.0,1439.0,30,https://key-radar.ru/ai-perplexity.html
 ai-cursor,Cursor,Нейросети,от 1 699 ₽,1699.0,False,0,1699.0,1699.0,37,https://key-radar.ru/ai-cursor.html
@@ -274,7 +274,7 @@ kaspersky,Kaspersky,Софт,от 590 ₽,590.0,False,0,590.0,590.0,25,https://k
 capcut-pro,CapCut Pro на ваш аккаунт,Софт,от 179 ₽,179.0,False,0,179.0,179.0,37,https://key-radar.ru/capcut-pro.html
 capcut-pro-akkaunt,CapCut Pro: готовый аккаунт,Софт,от 99 ₽,99.0,False,0,99.0,99.0,18,https://key-radar.ru/capcut-pro-akkaunt.html
 eset,ESET NOD32,Софт,от 549 ₽,549.0,False,-4,300.0,569.0,13,https://key-radar.ru/eset.html
-adobe-creative-cloud-akkaunt,Adobe Creative Cloud: аккаунт на месяц,Софт,от 749 ₽,749.0,False,0,749.0,749.0,15,https://key-radar.ru/adobe-creative-cloud-akkaunt.html
+adobe-creative-cloud-akkaunt,Adobe Creative Cloud: аккаунт на месяц,Софт,от 749 ₽,749.0,False,0,749.0,749.0,16,https://key-radar.ru/adobe-creative-cloud-akkaunt.html
 adobe-creative-cloud,Adobe Creative Cloud: ключ,Софт,от 1 099 ₽,1099.0,False,0,1099.0,1099.0,40,https://key-radar.ru/adobe-creative-cloud.html
 adobe-photoshop-lightroom,Photoshop и Lightroom: ключ,Софт,от 1 990 ₽,1990.0,False,0,1990.0,1990.0,11,https://key-radar.ru/adobe-photoshop-lightroom.html
 ps-store-cards,Карты PS Store,PlayStation,от 115 ₽ за карту,115.0,True,,,,40,https://key-radar.ru/ps-store-cards.html
