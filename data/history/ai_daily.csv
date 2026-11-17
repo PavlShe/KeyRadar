@@ -458,18 +458,18 @@ date,service,tariff,month_from_rub,own_account_month_from_rub
 2026-11-16,elevenlabs,Pro,10808.89,10808.89
 2026-11-16,elevenlabs,Scale,32524.09,32524.09
 2026-11-17,chatgpt,Go,749.0,999.0
-2026-11-17,chatgpt,Plus,988.0,2095.0
-2026-11-17,claude,Pro,2389.0,2389.0
+2026-11-17,chatgpt,Plus,990.0,2095.0
+2026-11-17,claude,Pro,2380.0,2380.0
 2026-11-17,claude,Max,16999.0,16999.0
 2026-11-17,gemini,AI Plus,699.0,699.0
-2026-11-17,gemini,AI Pro,699.0,141.5
+2026-11-17,gemini,AI Pro,699.0,149.16666666666666
 2026-11-17,gemini,AI Ultra,13899.0,13899.0
 2026-11-17,cursor,Pro,1899.0,2499.0
 2026-11-17,cursor,Pro+,10699.0,10699.0
 2026-11-17,cursor,Ultra,10999.0,10999.0
 2026-11-17,suno,Pro,989.0,707.5
 2026-11-17,suno,Premier,2699.0,2699.0
-2026-11-17,perplexity,Pro,1349.0,1683.25
+2026-11-17,perplexity,Pro,1349.0,1748.4166666666667
 2026-11-17,perplexity,Max,20999.0,18206.75
 2026-11-17,character-ai,Plus,200.0,200.0
 2026-11-17,grok,SuperGrok,3350.0,3350.0
@@ -484,9 +484,9 @@ date,service,tariff,month_from_rub,own_account_month_from_rub
 2026-11-17,higgsfield,Basic,1799.0,1799.0
 2026-11-17,higgsfield,Starter,1799.0,1766.5833333333333
 2026-11-17,higgsfield,Plus,6570.0,4698.916666666667
-2026-11-17,higgsfield,Ultra,12799.0,9930.0
-2026-11-17,kling,Standard,745.0,720.75
-2026-11-17,kling,Pro,2590.0,2558.6666666666665
+2026-11-17,higgsfield,Ultra,12799.0,12658.25
+2026-11-17,kling,Standard,745.0,724.5833333333334
+2026-11-17,kling,Pro,2590.0,2572.3333333333335
 2026-11-17,kling,Premier,6100.0,6100.0
 2026-11-17,kling,Ultra,13900.0,13900.0
 2026-11-17,krea,Basic,807.0,807.0
