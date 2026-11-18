@@ -1,17 +1,17 @@
 service,tariff,offers,own_account_month_from_rub,own_account_month_median_rub,ready_account_month_from_rub,shared_access_from_rub,url
-ChatGPT,ChatGPT Plus,45,2095.0,2499.0,990.0,,https://key-radar.ru/ai-chatgpt.html
-Claude,Claude Pro,65,2380.0,2424.0,,,https://key-radar.ru/ai-claude.html
-Gemini,Google AI Pro,25,699.0,,,,https://key-radar.ru/ai-gemini.html
-Cursor,Cursor Pro,59,2499.0,2599.0,1899.0,,https://key-radar.ru/ai-cursor.html
-Suno,Suno Pro,30,989.0,989.0,1420.0,,https://key-radar.ru/ai-suno.html
-Perplexity,Perplexity Pro,59,2099.0,2199.0,1349.0,,https://key-radar.ru/ai-perplexity.html
+ChatGPT,ChatGPT Plus,39,2095.0,2424.0,950.0,,https://key-radar.ru/ai-chatgpt.html
+Claude,Claude Pro,66,2399.0,2489.0,,,https://key-radar.ru/ai-claude.html
+Gemini,Google AI Pro,27,699.0,,,,https://key-radar.ru/ai-gemini.html
+Cursor,Cursor Pro,59,2499.0,,1899.0,,https://key-radar.ru/ai-cursor.html
+Suno,Suno Pro,29,989.0,989.0,1420.0,,https://key-radar.ru/ai-suno.html
+Perplexity,Perplexity Pro,71,2199.0,2399.0,1349.0,,https://key-radar.ru/ai-perplexity.html
 Character AI,Character AI Plus,66,200.0,572.5,550.0,,https://key-radar.ru/ai-character-ai.html
-Grok,SuperGrok,68,3350.0,8049.0,8850.0,,https://key-radar.ru/ai-grok.html
-Midjourney,Midjourney Basic,108,1225.0,,1379.0,,https://key-radar.ru/ai-midjourney.html
-ChatGPT Pro,ChatGPT Pro,36,8399.0,9999.0,12933.0,,https://key-radar.ru/ai-chatgpt-pro.html
+Grok,SuperGrok,68,3350.0,9474.0,8850.0,,https://key-radar.ru/ai-grok.html
+Midjourney,Midjourney Basic,105,1225.0,,1379.0,,https://key-radar.ru/ai-midjourney.html
+ChatGPT Pro,ChatGPT Pro,37,8299.0,8999.0,12933.0,,https://key-radar.ru/ai-chatgpt-pro.html
 Freepik,Freepik Premium,107,1599.0,2100.0,800.0,,https://key-radar.ru/ai-freepik.html
 Higgsfield,Higgsfield Basic,89,1799.0,,,,https://key-radar.ru/ai-higgsfield.html
-Kling,Kling Standard,103,745.0,880.0,989.0,,https://key-radar.ru/ai-kling.html
+Kling,Kling Standard,102,745.0,880.0,989.0,,https://key-radar.ru/ai-kling.html
 Krea,Krea Basic,119,807.0,1299.0,1007.0,,https://key-radar.ru/ai-krea.html
 Gamma,Gamma Plus,129,450.0,686.0,380.0,,https://key-radar.ru/ai-gamma.html
-ElevenLabs,ElevenLabs Starter,128,599.0,799.0,342.0,,https://key-radar.ru/ai-elevenlabs.html
+ElevenLabs,ElevenLabs Starter,123,599.0,799.0,342.0,,https://key-radar.ru/ai-elevenlabs.html
