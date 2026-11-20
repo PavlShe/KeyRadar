@@ -1,6 +1,6 @@
 # Цены на подписки нейросетей и пополнение Steam в России
 
-Открытый индекс цен [KeyRadar](https://key-radar.ru/) — агрегатора предложений продавцов на ggsel.net. **Данные на 19 ноября 2026, 04:30 МСК.** Файл обновляется автоматически раз в сутки, на сайте цены обновляются каждый час.
+Открытый индекс цен [KeyRadar](https://key-radar.ru/) — агрегатора предложений продавцов на ggsel.net. **Данные на 20 ноября 2026, 04:30 МСК.** Файл обновляется автоматически раз в сутки, на сайте цены обновляются каждый час.
 
 Главное правило индекса: самая низкая цена на маркетплейсе обычно не полноценный товар. Поэтому подписка **на ваш собственный аккаунт** и **готовый аккаунт продавца** считаются отдельно, а «от» — только у надёжных продавцов (рейтинг от 4,7 и хотя бы 20 продаж).
 
@@ -8,22 +8,22 @@
 
 | Сервис | Тариф | На ваш аккаунт, месяц от | На ваш аккаунт, медиана | Готовый аккаунт, месяц от | Предложений |
 |---|---|---|---|---|---|
-| [ChatGPT](https://key-radar.ru/ai-chatgpt.html) | ChatGPT Plus | 2 026 ₽ | 2 399 ₽ | 990 ₽ | 39 |
-| [Claude](https://key-radar.ru/ai-claude.html) | Claude Pro | 2 389 ₽ | 2 524 ₽ | 4 699 ₽ | 70 |
-| [Gemini](https://key-radar.ru/ai-gemini.html) | Google AI Pro | 699 ₽ | — | — | 30 |
-| [Cursor](https://key-radar.ru/ai-cursor.html) | Cursor Pro | 2 499 ₽ | — | 1 899 ₽ | 58 |
-| [Suno](https://key-radar.ru/ai-suno.html) | Suno Pro | 989 ₽ | 989 ₽ | 1 420 ₽ | 31 |
-| [Perplexity](https://key-radar.ru/ai-perplexity.html) | Perplexity Pro | 2 199 ₽ | 2 349 ₽ | 1 349 ₽ | 64 |
-| [Character AI](https://key-radar.ru/ai-character-ai.html) | Character AI Plus | 200 ₽ | 572 ₽ | 550 ₽ | 68 |
-| [Grok](https://key-radar.ru/ai-grok.html) | SuperGrok | 3 350 ₽ | 10 899 ₽ | 8 850 ₽ | 74 |
+| [ChatGPT](https://key-radar.ru/ai-chatgpt.html) | ChatGPT Plus | 2 026 ₽ | 2 299 ₽ | 749 ₽ | 43 |
+| [Claude](https://key-radar.ru/ai-claude.html) | Claude Pro | 2 599 ₽ | 2 599 ₽ | 12 999 ₽ | 74 |
+| [Gemini](https://key-radar.ru/ai-gemini.html) | Google AI Pro | 699 ₽ | — | 1 290 ₽ | 30 |
+| [Cursor](https://key-radar.ru/ai-cursor.html) | Cursor Pro | 2 499 ₽ | — | 1 899 ₽ | 53 |
+| [Suno](https://key-radar.ru/ai-suno.html) | Suno Pro | 989 ₽ | 989 ₽ | 1 420 ₽ | 28 |
+| [Perplexity](https://key-radar.ru/ai-perplexity.html) | Perplexity Pro | 1 390 ₽ | 2 394 ₽ | 1 349 ₽ | 66 |
+| [Character AI](https://key-radar.ru/ai-character-ai.html) | Character AI Plus | 200 ₽ | 570 ₽ | 550 ₽ | 68 |
+| [Grok](https://key-radar.ru/ai-grok.html) | SuperGrok | 3 350 ₽ | 10 899 ₽ | 8 850 ₽ | 78 |
 | [Midjourney](https://key-radar.ru/ai-midjourney.html) | Midjourney Basic | 1 225 ₽ | — | 1 379 ₽ | 105 |
-| [ChatGPT Pro](https://key-radar.ru/ai-chatgpt-pro.html) | ChatGPT Pro | 8 299 ₽ | 11 249 ₽ | 12 933 ₽ | 37 |
-| [Freepik](https://key-radar.ru/ai-freepik.html) | Freepik Premium | 1 599 ₽ | 2 100 ₽ | 800 ₽ | 113 |
-| [Higgsfield](https://key-radar.ru/ai-higgsfield.html) | Higgsfield Basic | 1 799 ₽ | — | — | 89 |
+| [ChatGPT Pro](https://key-radar.ru/ai-chatgpt-pro.html) | ChatGPT Pro | 8 299 ₽ | 10 999 ₽ | 12 933 ₽ | 38 |
+| [Freepik](https://key-radar.ru/ai-freepik.html) | Freepik Premium | 1 599 ₽ | 2 100 ₽ | 800 ₽ | 116 |
+| [Higgsfield](https://key-radar.ru/ai-higgsfield.html) | Higgsfield Basic | 1 799 ₽ | — | — | 90 |
 | [Kling](https://key-radar.ru/ai-kling.html) | Kling Standard | 745 ₽ | 870 ₽ | 989 ₽ | 96 |
-| [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 088 ₽ | 1 248 ₽ | 1 248 ₽ | 118 |
-| [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Plus | 480 ₽ | 686 ₽ | 380 ₽ | 124 |
-| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 599 ₽ | 799 ₽ | 342 ₽ | 108 |
+| [Krea](https://key-radar.ru/ai-krea.html) | Krea Basic | 1 088 ₽ | 1 248 ₽ | 1 248 ₽ | 115 |
+| [Gamma](https://key-radar.ru/ai-gamma.html) | Gamma Plus | 480 ₽ | 686 ₽ | 380 ₽ | 128 |
+| [ElevenLabs](https://key-radar.ru/ai-elevenlabs.html) | ElevenLabs Starter | 599 ₽ | 799 ₽ | 342 ₽ | 117 |
 
 Медиана — при 5 и более лотах на 1 месяц у надёжных продавцов. «Готовый аккаунт» — учётная запись продавца: дешевле, но при блокировке пропадут подписка и история. Полные таблицы, способы подключения и риски — на страницах сервисов: [нейросети](https://key-radar.ru/nejroseti.html).
 
@@ -35,25 +35,25 @@
 
 | Продавец | Придёт | Переплата | Продаж |
 |---|---|---|---|
-| GPay Market | 957 ₽ | 4,5% | 31 165 |
-| DarkAwe | 952 ₽ | 5,0% | 123 360 |
-| paylu | 952 ₽ | 5,0% | 15 194 |
-| KONSOL SHOP | 952 ₽ | 5,0% | 6 942 |
-| KalinowskyStore | 952 ₽ | 5,0% | 1 788 |
-| Igromagaz (самый покупаемый) | 931 ₽ | 7,4% | 6 397 117 |
+| GPay Market | 957 ₽ | 4,5% | 31 187 |
+| DarkAwe | 952 ₽ | 5,0% | 123 425 |
+| paylu | 952 ₽ | 5,0% | 15 196 |
+| KONSOL SHOP | 952 ₽ | 5,0% | 6 962 |
+| KalinowskyStore | 952 ₽ | 5,0% | 1 795 |
+| Igromagaz (самый покупаемый) | 931 ₽ | 7,4% | 6 403 191 |
 
 ### Казахстанский кошелёк: сколько тенге придёт за 1 000 ₽
 
-Переплата считается к курсу ЦБ РФ (курс ЦБ: 1 ₽ = 5,40 ₸). Медиана — **10,1%**.
+Переплата считается к курсу ЦБ РФ (курс ЦБ: 1 ₽ = 5,42 ₸). Медиана — **10,6%**.
 
 | Продавец | Придёт | Переплата к курсу ЦБ | Продаж |
 |---|---|---|---|
-| LegitMarket | 5 160 ₸ | 4,6% | 11 287 |
-| Plumid | 5 157 ₸ | 4,7% | 1 186 |
-| FowGame | 5 134 ₸ | 5,2% | 135 |
-| iwillplay | 5 131 ₸ | 5,2% | 43 906 |
-| Dream1314 | 5 076 ₸ | 6,4% | 53 426 |
-| Global Games (самый покупаемый) | 4 902 ₸ | 10,1% | 1 583 699 |
+| FowGame | 5 230 ₸ | 3,7% | 140 |
+| CrabPay | 5 181 ₸ | 4,6% | 7 855 |
+| LegitMarket | 5 160 ₸ | 5,1% | 11 362 |
+| Plumid | 5 157 ₸ | 5,1% | 1 206 |
+| SteamGifts official | 5 139 ₸ | 5,5% | 121 |
+| Global Games (самый покупаемый) | 4 902 ₸ | 10,6% | 1 587 584 |
 
 Подробнее и с кнопками покупки: [пополнение Steam](https://key-radar.ru/popolnit-steam.html), [в тенге](https://key-radar.ru/popolnit-steam-kazahstan.html), [сколько комиссия](https://key-radar.ru/skolko-komissiya-steam.html).
 
@@ -63,7 +63,7 @@
 |---|---|
 | `data/ai_subscriptions.csv` | нейросети: месяц главного или самого частого тарифа на свой аккаунт (от и медиана), готовый аккаунт, общий доступ |
 | `data/steam_topup.csv` | пополнение Steam: курс, переплата, сколько придёт за 1 000 ₽ (RUB и KZT) |
-| `data/prices.csv` | все 337 товаров сайта: цена у надёжного продавца, мин./макс., изменение за 7 дней |
+| `data/prices.csv` | все 361 товаров сайта: цена у надёжного продавца, мин./макс., изменение за 7 дней |
 | `data/history/ai_daily.csv` | нейросети по дням с 1 ноября 2026: месяц от, на свой аккаунт от |
 | `data/history/prices_daily.csv` | ключи Steam и консоли по дням: цена у надёжного продавца |
 
@@ -79,7 +79,7 @@
 
 ## In English
 
-Open daily index of prices for AI subscriptions (ChatGPT, Claude, Gemini, Cursor and others) and Steam wallet top-ups in Russia, from [KeyRadar](https://key-radar.ru/), a price aggregator of sellers on ggsel.net. Data as of 2026-11-19 04:30 MSK, prices in RUB. Subscriptions on the buyer's own account are separated from ready-made seller accounts and shared access; 'from' prices count only sellers rated 4.7+ with 20+ sales. Steam top-up overpayment is the real seller rate on ggsel.net (KZT compared to the Bank of Russia rate).
+Open daily index of prices for AI subscriptions (ChatGPT, Claude, Gemini, Cursor and others) and Steam wallet top-ups in Russia, from [KeyRadar](https://key-radar.ru/), a price aggregator of sellers on ggsel.net. Data as of 2026-11-20 04:30 MSK, prices in RUB. Subscriptions on the buyer's own account are separated from ready-made seller accounts and shared access; 'from' prices count only sellers rated 4.7+ with 20+ sales. Steam top-up overpayment is the real seller rate on ggsel.net (KZT compared to the Bank of Russia rate).
 
 ## Лицензия
 
