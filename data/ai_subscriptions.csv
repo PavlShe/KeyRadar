@@ -1,17 +1,18 @@
 service,tariff,offers,own_account_month_from_rub,own_account_month_median_rub,ready_account_month_from_rub,shared_access_from_rub,url
-ChatGPT,ChatGPT Plus,43,2026.0,2299.0,749.0,,https://key-radar.ru/ai-chatgpt.html
-Claude,Claude Pro,74,2599.0,2599.0,12999.0,,https://key-radar.ru/ai-claude.html
-Gemini,Google AI Pro,30,699.0,,1290.0,,https://key-radar.ru/ai-gemini.html
-Cursor,Cursor Pro,53,2499.0,,1899.0,,https://key-radar.ru/ai-cursor.html
-Suno,Suno Pro,28,989.0,989.0,1420.0,,https://key-radar.ru/ai-suno.html
-Perplexity,Perplexity Pro,66,1390.0,2394.5,1349.0,,https://key-radar.ru/ai-perplexity.html
-Character AI,Character AI Plus,68,200.0,569.5,550.0,,https://key-radar.ru/ai-character-ai.html
-Grok,SuperGrok,78,3350.0,10899.0,8850.0,,https://key-radar.ru/ai-grok.html
-Midjourney,Midjourney Basic,105,1225.0,,1379.0,,https://key-radar.ru/ai-midjourney.html
-ChatGPT Pro,ChatGPT Pro,38,8299.0,10999.0,12933.0,,https://key-radar.ru/ai-chatgpt-pro.html
-Freepik,Freepik Premium,116,1599.0,2100.0,800.0,,https://key-radar.ru/ai-freepik.html
-Higgsfield,Higgsfield Basic,90,1799.0,,,,https://key-radar.ru/ai-higgsfield.html
-Kling,Kling Standard,96,745.0,870.0,989.0,,https://key-radar.ru/ai-kling.html
-Krea,Krea Basic,115,1088.0,1248.0,1248.0,,https://key-radar.ru/ai-krea.html
+ChatGPT,ChatGPT Plus,41,2026.0,2299.0,749.0,,https://key-radar.ru/ai-chatgpt.html
+Claude,Claude Pro,79,2599.0,2599.0,12999.0,,https://key-radar.ru/ai-claude.html
+Gemini,Google AI Pro,33,699.0,,1199.0,,https://key-radar.ru/ai-gemini.html
+Cursor,Cursor Plus,70,800.0,1699.0,900.0,,https://key-radar.ru/ai-cursor.html
+Suno,Suno Pro,26,600.0,989.0,1420.0,,https://key-radar.ru/ai-suno.html
+Perplexity,Perplexity Pro,67,1390.0,2390.0,1349.0,,https://key-radar.ru/ai-perplexity.html
+DeepSeek,DeepSeek,33,,,158.0,,https://key-radar.ru/ai-deepseek.html
+Character AI,Character AI Lite,69,200.0,,908.0,,https://key-radar.ru/ai-character-ai.html
+Grok,Grok Plus,112,799.0,901.0,1100.0,,https://key-radar.ru/ai-grok.html
+Midjourney,Midjourney Basic,103,1225.0,,1379.0,,https://key-radar.ru/ai-midjourney.html
+ChatGPT Pro,ChatGPT Pro,39,8299.0,10999.0,12933.0,,https://key-radar.ru/ai-chatgpt-pro.html
+Freepik,Freepik Premium,119,1599.0,2100.0,800.0,,https://key-radar.ru/ai-freepik.html
+Higgsfield,Higgsfield Basic,89,1799.0,,,,https://key-radar.ru/ai-higgsfield.html
+Kling,Kling Standard,98,745.0,870.0,989.0,,https://key-radar.ru/ai-kling.html
+Krea,Krea Basic,105,1088.0,1248.0,1248.0,,https://key-radar.ru/ai-krea.html
 Gamma,Gamma Plus,128,480.0,686.0,380.0,,https://key-radar.ru/ai-gamma.html
-ElevenLabs,ElevenLabs Starter,117,599.0,799.0,342.0,,https://key-radar.ru/ai-elevenlabs.html
+ElevenLabs,ElevenLabs Starter,110,599.0,799.0,342.0,,https://key-radar.ru/ai-elevenlabs.html
