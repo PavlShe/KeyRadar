@@ -1,13 +1,13 @@
 wallet,seller,rub_per_unit,overpay,arrives_per_1000_rub,sales_all_time,rating,most_bought
-RUB,GPay Market,1.0451,0.0451,956.8,31245,5,False
-RUB,DarkAwe,1.05,0.05,952.4,123625,4.9,False
-RUB,paylu,1.05,0.05,952.4,15204,4.9,False
-RUB,KONSOL SHOP,1.05,0.05,952.4,7004,5,False
-RUB,KalinowskyStore,1.05,0.05,952.4,1852,5,False
-RUB,Igromagaz,1.074,0.074,931.1,6417898,4.9,True
-KZT,FowGame,0.1888,0.0307,5296.6,211,5,False
-KZT,CrabPay,0.191,0.0428,5235.6,7926,5,False
-KZT,SteamGifts official,0.1922,0.0493,5202.9,129,5,False
-KZT,LegitMarket,0.1938,0.058,5160.0,11474,4.9,False
-KZT,Plumid,0.1939,0.0586,5157.3,1239,5,False
-KZT,Global Games,0.204,0.1137,4902.0,1598322,4.9,True
+RUB,SjMarket,1.0449,0.0449,957.0,77,5,False
+RUB,GPay Market,1.0451,0.0451,956.8,31266,5,False
+RUB,DarkAwe,1.05,0.05,952.4,123706,4.9,False
+RUB,paylu,1.05,0.05,952.4,15234,4.9,False
+RUB,KONSOL SHOP,1.05,0.05,952.4,7014,5,False
+RUB,Igromagaz,1.074,0.074,931.1,6424182,4.9,True
+KZT,FowGame,0.1888,0.0307,5296.6,257,5,False
+KZT,CrabPay,0.191,0.0428,5235.6,7953,5,False
+KZT,SteamGifts official,0.1922,0.0493,5202.9,131,5,False
+KZT,LegitMarket,0.1938,0.058,5160.0,11511,4.9,False
+KZT,Plumid,0.1939,0.0586,5157.3,1249,5,False
+KZT,Global Games,0.204,0.1137,4902.0,1603097,4.9,True
